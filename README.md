@@ -29,3 +29,7 @@ In some examples, certain rate constants are assigned values a priori.
 
 - Macaulay2 ≥ 1.21
 
+
+## Proposed positive regular diagnostic
+
+[Original proof and exact Python checks](counterexamples/positive_regular/) for an indecomposable bimolecular family with a positive globally stable state and regular complex zeros, yet no species-permutation shape basis. This source-specific note credits the earlier counterclaim and the standard mixed-coordinate theorem; its full-text attribution targets arXiv v2. The existing Macaulay2 examples are unchanged.
